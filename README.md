@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Royal-Reddy-Yaparla/Royal-Reddy-Yaparla/ezgif.com-optimize.gif" width="600px">
+  <img src="https://github.com/Royal-Reddy-Yaparla/Royal-Reddy-Yaparla/blob/main/ezgif.com-optimize.gif" width="1000px">
 </p>
 
 
