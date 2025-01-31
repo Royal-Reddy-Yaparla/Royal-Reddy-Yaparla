@@ -39,23 +39,16 @@
 ## 🛠️ **Tech Stack & Tools**  
 
 ### 🚀 **Cloud & DevOps**  
-![AWS](https://img.shields.io/badge/AWS-EC2%2C%20RDS%2C%20EKS%2C%20S3%2C%20Route53%2C%20IAM-orange?style=flat-square&logo=amazonaws)  
-![Docker](https://img.shields.io/badge/Docker-Containerization-blue?style=flat-square&logo=docker)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=flat-square&logo=kubernetes)  
+![AWS](https://img.shields.io/badge/AWS-EC2%2C%20RDS%2C%20EKS%2C%20S3%2C%20Route53%2C%20IAM-orange?style=flat-square&logo=amazonaws)  ![Docker](https://img.shields.io/badge/Docker-Containerization-blue?style=flat-square&logo=docker)  ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=flat-square&logo=kubernetes)  
 
 ### ⚙️ **Automation & IaC**  
-![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?style=flat-square&logo=terraform)  
-![Ansible](https://img.shields.io/badge/Ansible-Configuration%20Management-red?style=flat-square&logo=ansible)  
+![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?style=flat-square&logo=terraform)  ![Ansible](https://img.shields.io/badge/Ansible-Configuration%20Management-red?style=flat-square&logo=ansible)  
 
 ### 🔧 **CI/CD & Security**  
-![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-blue?style=flat-square&logo=jenkins)  
-![SonarQube](https://img.shields.io/badge/SonarQube-Code%20Quality-yellow?style=flat-square&logo=sonarqube)  
-![Trivy](https://img.shields.io/badge/Trivy-Security-blueviolet?style=flat-square)  
+![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-blue?style=flat-square&logo=jenkins)  ![SonarQube](https://img.shields.io/badge/SonarQube-Code%20Quality-yellow?style=flat-square&logo=sonarqube)  ![Trivy](https://img.shields.io/badge/Trivy-Security-blueviolet?style=flat-square)  
 
 ### 📊 **Monitoring & Logging**  
-![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-orange?style=flat-square&logo=prometheus)  
-![Grafana](https://img.shields.io/badge/Grafana-Observability-red?style=flat-square&logo=grafana)  
-![EFK](https://img.shields.io/badge/ELK-Stack-blue?style=flat-square&logo=elasticstack)  
+![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-orange?style=flat-square&logo=prometheus)  ![Grafana](https://img.shields.io/badge/Grafana-Observability-red?style=flat-square&logo=grafana)  ![EFK](https://img.shields.io/badge/EFK-Stack-blue?style=flat-square&logo=elasticstack)  
 
 ---
 
