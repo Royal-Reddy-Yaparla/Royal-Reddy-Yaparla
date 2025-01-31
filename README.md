@@ -39,7 +39,7 @@
 ## 🛠️ **Tech Stack & Tools**  
 
 ### 🚀 **Cloud & DevOps**  
-![AWS](https://img.shields.io/badge/AWS-EC2%2C%20RDS%2C%20EKS%2C%20S3%2C%20Route53%2C%20IAM-orange?style=flat-square&logo=amazonaws)  ![Docker](https://img.shields.io/badge/Docker-Containerization-blue?style=flat-square&logo=docker)  ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=flat-square&logo=kubernetes)  
+![AWS](https://img.shields.io/badge/AWS-EC2%2C%20RDS%2C%20EKS%2C%20S3%2C%20Route53%2C%20IAM%2C%20CloudFront%2C%20VPC%2C%20SNS%2C%20CloudWatch-orange?style=flat-square&logo=amazonaws)  ![Docker](https://img.shields.io/badge/Docker-Containerization-blue?style=flat-square&logo=docker)  ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=flat-square&logo=kubernetes)  
 
 ### ⚙️ **Automation & IaC**  
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?style=flat-square&logo=terraform)  ![Ansible](https://img.shields.io/badge/Ansible-Configuration%20Management-red?style=flat-square&logo=ansible)  
