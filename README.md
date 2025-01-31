@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/Royal-Reddy-Yaparla/Royal-Reddy-Yaparla/ezgif.com-optimize.gif" width="600px">
+</p>
+
+
 # 👋 Hey there, I'm Royal Reddy Yaparla!  
 🚀 **DevOps & AWS Cloud Engineer** 
 
