@@ -54,7 +54,7 @@
 
 ## 📌 **Pinned Repositories**  
 
-🔹 **[Kubernetes](https://github.com/Royal-Reddy-Yaparla/kubernetes.git)** 🔹 **[Robokart DevOps Suite](https://github.com/Royal-Reddy-Yaparla/robokart-devops-suite)**  
+🔹 **[Kubernetes](https://github.com/Royal-Reddy-Yaparla/kubernetes.git)** 🔹 **[Robokart DevOps](https://github.com/Royal-Reddy-Yaparla/robokart-devops)**  
 🔹 **[Helm](https://github.com/Royal-Reddy-Yaparla/Helm)**                 🔹 **[Prometheus & Grafana](https://github.com/Royal-Reddy-Yaparla/prometheus-grafana)**  
 🔹 **[Docker](https://github.com/Royal-Reddy-Yaparla/docker)**             🔹 **[ELK-EFK](https://github.com/Royal-Reddy-Yaparla/ELK-EFK)**  
 
