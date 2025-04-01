@@ -6,7 +6,7 @@
 
 ## 🚀 About Me  
 
-**DevOps and AWS Cloud Engineer** with **3 years of experience** in cloud infrastructure, automation, and CI/CD pipelines. Focused on enhancing software delivery processes, improving system reliability, and optimizing costs through cloud-native technologies. Eager to contribute to impactful projects, refine DevSecOps practices, and align with industry best practices. 
+**DevOps and AWS Cloud Engineer** Focused on cloud infrastructure, automation, and CI/CD pipelines. Concentrate on enhancing software delivery processes, improving system reliability, and optimizing costs through cloud-native technologies. Eager to contribute to impactful projects, refine DevSecOps practices, and align with industry best practices. 
 
 🔹 **Linux Administration**: Experienced in managing RHEL-based systems, including user management, package updates, and network configuration. 
 
