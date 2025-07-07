@@ -23,21 +23,36 @@ Beyond technical work, I enjoy mentoring junior engineers, conducting training s
 
 ---
 
-## 🛠️ **Tech Stack & Tools**  
+## **Tech Stack & Tools**
 
-### 🚀 **Cloud & DevOps**  
-![AWS](https://img.shields.io/badge/AWS-EC2%2C%20RDS%2C%20EKS%2C%20S3%2C%20Route53%2C%20IAM%2C%20CloudFront%2C%20VPC%2C%20SNS%2C%20CloudWatch-orange?style=flat-square&logo=amazonaws)  ![Docker](https://img.shields.io/badge/Docker-Containerization-blue?style=flat-square&logo=docker)  ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=flat-square&logo=kubernetes)  
-
-### ⚙️ **Automation & IaC**  
-![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?style=flat-square&logo=terraform)  ![Ansible](https://img.shields.io/badge/Ansible-Configuration%20Management-red?style=flat-square&logo=ansible)  
-
-### 🔧 **CI/CD & Security**  
-![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-blue?style=flat-square&logo=jenkins)  ![SonarQube](https://img.shields.io/badge/SonarQube-Code%20Quality-yellow?style=flat-square&logo=sonarqube)  ![Trivy](https://img.shields.io/badge/Trivy-Security-blueviolet?style=flat-square)  
-
-### 📊 **Monitoring & Logging**  
-![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-orange?style=flat-square&logo=prometheus)  ![Grafana](https://img.shields.io/badge/Grafana-Observability-red?style=flat-square&logo=grafana)  ![EFK](https://img.shields.io/badge/EFK-Stack-blue?style=flat-square&logo=elasticstack)  
+### **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-EC2%2C%20RDS%2C%20EKS%2C%20S3%2C%20Route53%2C%20IAM%2C%20CloudFront%2C%20VPC-orange?style=flat-square&logo=amazonaws)  
+![Docker](https://img.shields.io/badge/Docker-Containerization-blue?style=flat-square&logo=docker)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=flat-square&logo=kubernetes)  
+![Helm](https://img.shields.io/badge/Helm-K8s%20Charts-0f1689?style=flat-square&logo=helm)
 
 ---
+
+### **Infrastructure as Code & Automation**
+![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?style=flat-square&logo=terraform)  
+![Ansible](https://img.shields.io/badge/Ansible-Automation-red?style=flat-square&logo=ansible)  
+![Shell Scripting](https://img.shields.io/badge/Shell-Bash%20Scripting-black?style=flat-square&logo=gnu-bash)
+
+---
+
+### **CI/CD & DevSecOps**
+![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-blue?style=flat-square&logo=jenkins)  
+![SonarQube](https://img.shields.io/badge/SonarQube-Static%20Analysis-yellow?style=flat-square&logo=sonarqube)  
+![Trivy](https://img.shields.io/badge/Trivy-Image%20Scanning-blueviolet?style=flat-square&logo=aqua-security)  
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-DAST-lightgrey?style=flat-square&logo=owasp)
+
+---
+
+### **Monitoring & Logging**
+![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-orange?style=flat-square&logo=prometheus)  
+![Grafana](https://img.shields.io/badge/Grafana-Dashboards-red?style=flat-square&logo=grafana)  
+![EFK Stack](https://img.shields.io/badge/EFK-Logging-blue?style=flat-square&logo=elasticstack)
+
 
 ## 📌 **Pinned Repositories**  
 
@@ -59,13 +74,18 @@ Beyond technical work, I enjoy mentoring junior engineers, conducting training s
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Royal-Reddy-Yaparla&layout=compact&theme=tokyonight)](https://github.com/Royal-Reddy-Yaparla)  
 
 ---
+---
 
-## 📫 **Let’s Connect!**  
-💻 **Email**: iamroyareddy@gmail.com  
-🔗 **LinkedIn**: [Connect Here](https://www.linkedin.com/in/royalreddy/)  
-💾 **GitHub**: [Follow Me](https://github.com/Royal-Reddy-Yaparla)  
+## 📫 Let's Connect!
+
+💼 **LinkedIn**: [linkedin.com/in/royalreddy](https://www.linkedin.com/in/royalreddy)  
+📧 **Email**: [iamroyareddy@gmail.com](mailto:iamroyareddy@gmail.com)  
+💻 **GitHub**: [github.com/Royal-Reddy-Yaparla](https://github.com/Royal-Reddy-Yaparla)  
+
+---
+
+✨ I'm always open to networking, collaboration, and sharing knowledge in the DevOps and Cloud community.  
+🚀 Let’s build scalable, secure, and impactful solutions together!
 
 
-💡 *I’m open to collaborations, discussions, and learning opportunities!*  
-🚀 *Let’s build something amazing together!*  
 
