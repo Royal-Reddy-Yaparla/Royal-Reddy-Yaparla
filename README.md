@@ -11,33 +11,15 @@
 
 ## 🚀 About Me  
 
-**DevOps and AWS Cloud Engineer** Focused on cloud infrastructure, automation, and CI/CD pipelines. Concentrate on enhancing software delivery processes, improving system reliability, and optimizing costs through cloud-native technologies. Eager to contribute to impactful projects, refine DevSecOps practices, and align with industry best practices. 
+I’m Royal Reddy Yaparla, a dedicated DevOps and AWS Cloud Engineer passionate about building scalable, automated, and secure infrastructure. My focus lies in streamlining cloud-native deployments, optimizing CI/CD pipelines, and enhancing software delivery through infrastructure as code and DevSecOps practices. With hands-on experience in managing RHEL-based Linux systems, I’ve effectively automated system tasks using shell scripting to reduce manual workload and increase efficiency.
 
-🔹 **Linux Administration**: Experienced in managing RHEL-based systems, including user management, package updates, and network configuration. 
+I specialize in provisioning cloud infrastructure using Terraform, integrating it seamlessly with Ansible for configuration management. My Git expertise includes transitioning teams from GitFlow to a feature-branching strategy to support agile microservices development. I’ve architected and maintained robust CI/CD pipelines using tools like Jenkins, embedding static and dynamic security scans to ensure compliance and reduce vulnerabilities by 25%.
 
-🔹 **Shell Scripting**: Automated recurring tasks such as backups, system monitoring, and installations, reducing manual efforts.
+In the containerization space, I’ve designed optimized Docker images and used Helm for deploying and managing applications on Kubernetes, reducing deployment time by 30%. For observability, I’ve implemented the Prometheus–Grafana stack along with EFK, enabling real-time monitoring and faster incident response.
 
-🔹 **Infrastructure as Code (IaC)**: Automated cloud provisioning using Terraform, ensuring consistency and reducing manual effort by 50%.
+My cloud proficiency extends across key AWS services including EC2, RDS, EKS, S3, CloudFront, Auto Scaling, and VPCs, ensuring high availability and fault tolerance across environments. I actively promote the shift-left approach to identify and resolve issues early in the development lifecycle, improving overall software quality and reducing QA/production defects by 20%.
 
-🔹 **Configuration Management**: Streamlined deployment processes with Ansible playbooks and integrated them with Terraform workflows.
-
-🔹 **Version Control & Git Strategies**: Migrated from GitFlow to feature branching strategy, enhancing agility and supporting microservices development.
-
-🔹 **CI/CD Pipelines**: Worked closely with cross-functional teams to design, implement, and maintain Continuous Integration & Continuous Deployment pipelines, improving software release efficiency.
-
-🔹 **DevSecOps Practices**: Embedded SAST, DAST, and image scanning into CI/CD pipelines, reducing vulnerabilities by 25%.
-
-🔹**Containerization & Orchestration**: Optimized Docker images for efficient deployments and implemented Helm charts for Kubernetes application management, reducing deployment time by 30%.
-
-🔹 **Observability & Monitoring**: incorporated Prometheus, Grafana, and EFK stack for real-time monitoring, improving incident response time.
-
-🔹 **AWS Expertise**: Designed and maintained scalable AWS infrastructure using EC2, RDS, EKS, S3, ALB, CloudFront, Auto Scaling, and VPC, ensuring high availability and fault tolerance.
-
-🔹 **Shift-Left Approach**: Improved defect detection in QA and production by 20% through early-stage security and code quality checks.
-
-🔹 **Training & Documentation**: Provided training sessions to freshers and documented cloud architectures and procedures, ensuring knowledge retention and smooth onboarding.
-
-💡 **Let’s collaborate on open-source DevOps projects!**  
+Beyond technical work, I enjoy mentoring junior engineers, conducting training sessions, and documenting cloud architectures to ensure knowledge sharing and smoother onboarding. I'm always excited to collaborate on open-source DevOps projects and contribute to solutions that drive innovation, reliability, and scalability in modern software delivery. 
 
 ---
 
