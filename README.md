@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Royal-Reddy-Yaparla/Royal-Reddy-Yaparla/main/assets/bg.jpg" alt="banner" width="100%">
+</p>
 # 👋 Hey there, I'm Royal Reddy Yaparla!  
 🚀 **DevOps & AWS Cloud Engineer** 
 
