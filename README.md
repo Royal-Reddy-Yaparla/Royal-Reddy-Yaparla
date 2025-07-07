@@ -1,8 +1,10 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Royal-Reddy-Yaparla/Royal-Reddy-Yaparla/main/assets/bg.jpg" alt="banner" width="100%">
 </p>
+
 # 👋 Hey there, I'm Royal Reddy Yaparla!  
-🚀 **DevOps & AWS Cloud Engineer** 
+
+**DevOps & AWS Cloud Engineer** 
 
   ![Profile Views](https://komarev.com/ghpvc/?username=Royal-Reddy-Yaparla&color=blueviolet)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/royalreddy/)  [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey?style=flat-square&logo=github)](https://github.com/Royal-Reddy-Yaparla)  📧 **iamroyareddy@gmail.com**  
 ---
