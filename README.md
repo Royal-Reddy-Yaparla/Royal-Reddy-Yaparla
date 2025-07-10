@@ -22,6 +22,11 @@ My cloud proficiency extends across key AWS services including EC2, RDS, EKS, S3
 Beyond technical work, I enjoy mentoring junior engineers, conducting training sessions, and documenting cloud architectures to ensure knowledge sharing and smoother onboarding. I'm always excited to collaborate on open-source DevOps projects and contribute to solutions that drive innovation, reliability, and scalability in modern software delivery. 
 
 ---
+## 📌 **Pinned Repositories**  
+
+🔹 **[ecommerce-application](https://github.com/Royal-Reddy-Yaparla/ecommerce-application)** 🔹 **[Interview-Preparation](https://github.com/Royal-Reddy-Yaparla/Interview-Preparation)**  
+🔹 **[Helm](https://github.com/Royal-Reddy-Yaparla/Helm)**                 🔹 **[Prometheus & Grafana](https://github.com/Royal-Reddy-Yaparla/prometheus-grafana)**  
+🔹 **[Docker](https://github.com/Royal-Reddy-Yaparla/docker)**             🔹 **[ELK-EFK](https://github.com/Royal-Reddy-Yaparla/ELK-EFK)**  
 
 ## **Tech Stack & Tools**
 
@@ -54,11 +59,6 @@ Beyond technical work, I enjoy mentoring junior engineers, conducting training s
 ![EFK Stack](https://img.shields.io/badge/EFK-Logging-blue?style=flat-square&logo=elasticstack)
 
 
-## 📌 **Pinned Repositories**  
-
-🔹 **[Kubernetes](https://github.com/Royal-Reddy-Yaparla/kubernetes.git)** 🔹 **[Robokart DevOps](https://github.com/Royal-Reddy-Yaparla/robokart-devops)**  
-🔹 **[Helm](https://github.com/Royal-Reddy-Yaparla/Helm)**                 🔹 **[Prometheus & Grafana](https://github.com/Royal-Reddy-Yaparla/prometheus-grafana)**  
-🔹 **[Docker](https://github.com/Royal-Reddy-Yaparla/docker)**             🔹 **[ELK-EFK](https://github.com/Royal-Reddy-Yaparla/ELK-EFK)**  
 
 ---
 
