@@ -9,7 +9,7 @@
   ![Profile Views](https://komarev.com/ghpvc/?username=Royal-Reddy-Yaparla&color=blueviolet)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/royalreddy/)  [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey?style=flat-square&logo=github)](https://github.com/Royal-Reddy-Yaparla)  📧 **iamroyareddy@gmail.com**  
 ---
 
-## 🚀 About Me  
+## About Me  
 
 I’m Royal Reddy Yaparla, a dedicated DevOps and AWS Cloud Engineer passionate about building scalable, automated, and secure infrastructure. My focus lies in streamlining cloud-native deployments, optimizing CI/CD pipelines, and enhancing software delivery through infrastructure as code and DevSecOps practices. With hands-on experience in managing RHEL-based Linux systems, I’ve effectively automated system tasks using shell scripting to reduce manual workload and increase efficiency.
 
@@ -22,11 +22,15 @@ My cloud proficiency extends across key AWS services including EC2, RDS, EKS, S3
 Beyond technical work, I enjoy mentoring junior engineers, conducting training sessions, and documenting cloud architectures to ensure knowledge sharing and smoother onboarding. I'm always excited to collaborate on open-source DevOps projects and contribute to solutions that drive innovation, reliability, and scalability in modern software delivery. 
 
 ---
-## 📌 **Pinned Repositories**  
+## **My work in Action**  
 
-🔹 **[ecommerce-application](https://github.com/Royal-Reddy-Yaparla/ecommerce-application)** 🔹 **[Interview-Preparation](https://github.com/Royal-Reddy-Yaparla/Interview-Preparation)**  
-🔹 **[Helm](https://github.com/Royal-Reddy-Yaparla/Helm)**                 🔹 **[Prometheus & Grafana](https://github.com/Royal-Reddy-Yaparla/prometheus-grafana)**  
-🔹 **[Docker](https://github.com/Royal-Reddy-Yaparla/docker)**             🔹 **[ELK-EFK](https://github.com/Royal-Reddy-Yaparla/ELK-EFK)**  
+🔹 **[ecommerce-application](https://github.com/Royal-Reddy-Yaparla/ecommerce-application)** 
+🔹 **[Interview-Preparation](https://github.com/Royal-Reddy-Yaparla/Interview-Preparation)** 
+🔹 **[Ansible-PoC](https://github.com/Royal-Reddy-Yaparla/ecom-ansible-roles)** 
+🔹 **[Terraform-Jenkins-PoC](https://github.com/Royal-Reddy-Yaparla/terraform-jenkins)** 
+🔹 **[K8-Jenkins-PoC](https://github.com/Royal-Reddy-Yaparla/kubernetes-jenkins.git)** 
+🔹 **[Helm](https://github.com/Royal-Reddy-Yaparla/Helm)** 
+🔹 **[Docker](https://github.com/Royal-Reddy-Yaparla/docker)**
 
 ## **Tech Stack & Tools**
 
