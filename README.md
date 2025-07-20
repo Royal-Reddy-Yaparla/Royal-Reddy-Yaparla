@@ -24,7 +24,7 @@ Beyond technical work, I enjoy mentoring junior engineers, conducting training s
 ---
 ## **My work in Action**  
 
-🔹 **[ecommerce-application](https://github.com/Royal-Reddy-Yaparla/ecommerce-application)** 
+🔹 **[ecommerce-application](https://github.com/Royal-Reddy-Yaparla/ecommerce-app)** 
 🔹 **[Interview-Preparation](https://github.com/Royal-Reddy-Yaparla/Interview-Preparation)** 
 🔹 **[Ansible-PoC](https://github.com/Royal-Reddy-Yaparla/ecom-ansible-roles)** 
 🔹 **[Terraform-Jenkins-PoC](https://github.com/Royal-Reddy-Yaparla/terraform-jenkins)** 
